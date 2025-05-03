@@ -1,0 +1,12 @@
+{
+  "contractId": "0.0.5798699",
+  "bytecodeFileId": "0.0.5798698",
+  "initialValue": "0",
+  "deployedBy": "0.0.5798618",
+  "deployedAt": "2025-03-31T14:34:22.605Z",
+  "network": "testnet",
+  "contractLinks": {
+    "viewOnHashscan": "https://hashscan.io/testnet/contract/0.0.5798699",
+    "evmAddress": "0x4a5a7af401b0a68c3fc49b5b973407b4470fe234"
+  }
+}
